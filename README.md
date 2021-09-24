@@ -6,6 +6,7 @@ VisionMart talks about the highly distinct need for socialization and collaborat
 
 As an infrastructure-oriented solution, they are unlocking the possibility for hundreds of millions of gamers, millions of teams, tens of thousands of sponsors, advertisers and organizers to get them securely connected with each other and become a part of the global esports ecosystem.
 
+### Demo: https://visionmart.netlify.app
 The core values of VisionMart have been selected on the basis of providing a solution to issues associated with the unprotected rights of esports participants, fixing esports' broken business model (fragmented ecosystem creates complexity, friction and misalignment between involved parties), and esports' increasingly polarized ecosystem.
 
 VisionMart is a platform which allows social gamers to compete and earn, simultaneously. There are various games and rewards at this platform.The vision is to make esports accessible to all gamers. As it is well known that there are a no. of players who want themselves to be noted by the esports company, for which they had to go through various steps.
